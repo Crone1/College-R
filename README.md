@@ -1,6 +1,7 @@
-# R
+# Repository Contents
 This repository contains all of my code for the college module 'Programming For Data Analytics'. This module focused on the programming language R where we learned the fundamentals of programming in R and explored modelling and visualising data in R.
 
+# Folder Beakdown
 The folders in this repository breakdown as follows:
 
 - The *'Changing Data Formats'* folder looks at data manipulation and reformatting using a student results dataset.
