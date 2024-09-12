@@ -19,18 +19,25 @@ The key concepts covered here were:
 - Generating random data
 - Visualisating data using its EigenVectors
 
-### [Visualising Rotating Shapes](03__Visualising_Rotating_Shapes)
+### [Analysing Chick Weights](03__Analysing_Chick_Weights)
+This project focused on analysing the weights of chicks to effectively answer questions on the subject.
+The key concepts covered here were:
+- Aggregating data
+- Visualising data using BoxPlots
+
+### [Visualising Rotating Shapes](04__Visualising_Rotating_Shapes)
 This project focused on visualising data in a way that is easy to interpret and extract information from.
 The key concepts covered here were:
 - Looping over data
 - Rotating plotted data
 - Creating data projections 
 
-### [Modelling MNIST Handwritten Numbers](04__Modelling_MNIST_Handwritten_Numbers)
+### [Modelling MNIST Handwritten Numbers](05__Modelling_MNIST_Handwritten_Numbers)
 This project focused on visualising and modelling the MNIST dataset.
 This dataset contains images of handwritten numbers ranging from `0` to `9`.
-These images can be read in as matrices which can be plotted as a point cloud and then used for modelling tasks.
+These images can be read in as matrices, which can be plotted as a point cloud, and then used for modelling tasks.
 The key concepts covered here were:
 - Visualising images
-- Modelling data for classification
-- Modelling data for generation
+- Classifying images using K-Nearest Neighbours
+- Optimising model parameters
+- Generating images
